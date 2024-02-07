@@ -1,3 +1,11 @@
+int len =0;
+int x = 0;
+int y = 400;
+public void setup()
+{
+background (255);
+size(400,400);
+}
 public void draw()
 {
   fill(mouseX,22,mouseY);
